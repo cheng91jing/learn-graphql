@@ -1,0 +1,14 @@
+{
+    "name": "chen/graph-ql",
+    "description": "Learn GraphQL",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ChenJing",
+            "email": "654807719@qq.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^0.12.2"
+    }
+}
